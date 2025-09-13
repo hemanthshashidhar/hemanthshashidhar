@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hemanthshashidhar
+- 👋 Hi, I’m @hemanth
 - 👀 I’m interested in machine learning
 
 <!---
