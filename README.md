@@ -1,106 +1,85 @@
+
 <div align="center">
 
-# `hemanth@github:~$ whoami`
+# Hemanth Kumar KS
 
-### Hemanth Kumar KS
+### Applied AI · Machine Learning · Security Engineering
 
-**AI/ML Developer · Cybersecurity Enthusiast · CSE Undergraduate**
+**I build intelligent systems and explore how to make them reliable, useful, and secure.**
 
-`Building intelligent systems. Learning to secure them.`
-
-[![GitHub](https://img.shields.io/badge/GitHub-hemanthshashidhar-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/hemanthshashidhar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth-kumarks18h)
+[GitHub](https://github.com/hemanthshashidhar) · [LinkedIn](https://www.linkedin.com/in/hemanth-kumarks18h/)
 
 </div>
 
 ---
 
-### `$ cat about_me.txt`
+## About
 
-```text
-Name       : Hemanth Kumar KS
-Education  : B.E. Computer Science & Engineering | 2023–2027
-Interests  : Machine Learning, Deep Learning, Agentic AI, Cybersecurity
-Building   : AI applications, developer tools, and agent security infrastructure
-Approach   : Learn the fundamentals. Build useful systems. Test assumptions.
-```
+I'm a Computer Science and Engineering student interested in the engineering behind modern AI systems: from training and evaluating machine learning models to building LLM-powered applications and examining their security.
 
-I'm a Computer Science and Engineering undergraduate building practical AI systems with Python, PyTorch, LLM frameworks, and backend tools. I'm also developing my cybersecurity skills, with a particular interest in securing AI agents and the software around them.
+I enjoy working across the stack — experimenting with models, designing backend services, connecting components, and turning ideas into usable projects.
 
-### `$ ls ./focus_areas`
+- **Currently exploring:** Agentic AI, LLM application security, and practical cybersecurity.
+- **Building with:** Python, PyTorch, FastAPI, LangChain, and LangGraph.
+- **Interested in:** Applied machine learning, secure AI systems, and open-source engineering.
 
-- **AI / ML:** supervised learning, model evaluation, computer vision, and deep learning
-- **LLM engineering:** RAG, embeddings, LangChain, LangGraph, and agent workflows
-- **Security:** web security fundamentals, prompt-injection detection, and AI agent trust
-- **Engineering:** Python services, APIs, Linux, Git, and container workflows
+## Selected Work
 
-### `$ ls ./projects`
+A few projects that represent the problems and technologies I'm exploring.
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **VisionForge AI** | End-to-end image classification workflow | PyTorch, Computer Vision, ONNX |
-| **ResearchOS AI** | Multi-agent AI research workflows | Python, LangGraph, LLMs |
-| **KnowledgeFlow AI** | Retrieval-augmented knowledge assistant | LangChain, FastAPI, ChromaDB |
-| **AgentMap / agent-prompt-scanner** | Exploring trust and prompt security for AI agents | Python, CLI, Security Rules |
-| **NammaKannu** | AI-powered Bengaluru bus companion prototype | Python, GTFS, Streamlit |
+| Project | What it explores | Technologies |
+|---|---|---|
+| **VisionForge AI** | An end-to-end image classification platform, covering model training, evaluation, interpretability, and export. | `PyTorch` `Computer Vision` `Albumentations` `ONNX` |
+| **ResearchOS AI** | A multi-agent platform for coordinating AI-assisted research workflows. | `Python` `LangGraph` `LLMs` |
+| **AgentMap** | An exploration of trust, security analysis, and compatibility testing for AI agents. | `Python` `Agent Security` |
+| **NammaKannu** | A BMTC commuter companion using destination-board recognition and curated transit data. | `Computer Vision` `GTFS` `Streamlit` |
+| **KnowledgeFlow AI** | A retrieval-augmented knowledge system with multi-agent orchestration. | `RAG` `LangChain` `LangGraph` `FastAPI` |
 
-> Project links, demos, and benchmarks will be added after verifying each public repository.
+> Project descriptions reflect the scope of the work. Check each repository for its current implementation status and setup instructions.
 
-### `$ cat tech_stack.yml`
+## Technical Toolkit
 
-```yaml
-languages:
-  - Python
-  - C / C++
-  - Java
+**AI & Machine Learning**
 
-ai_ml:
-  - PyTorch
-  - scikit-learn
-  - pandas / NumPy
-  - Hugging Face
-  - OpenCV
+`PyTorch` `scikit-learn` `Hugging Face` `OpenCV` `NumPy` `Pandas`
 
-llm_agents:
-  - LangChain
-  - LangGraph
-  - RAG / vector search
-  - FAISS / ChromaDB
+**LLMs & Agent Systems**
 
-backend_tools:
-  - FastAPI
-  - Streamlit
-  - Git / GitHub
-  - Linux
-  - Docker / Podman
+`LangChain` `LangGraph` `RAG` `FAISS` `ChromaDB` `Sentence Transformers`
 
-security_learning:
-  - Web application security
-  - Prompt injection detection
-  - AI agent security
-```
+**Backend & Data**
 
-### `$ git log --oneline --stat`
+`Python` `FastAPI` `Streamlit` `Node.js` `Firebase`
+
+**Security & Systems**
+
+`Linux` `Networking` `Burp Suite` `Wireshark` `Nmap` `Docker` `Git`
+
+## Current Direction
+
+I'm particularly interested in the intersection of **AI Engineering and Security**:
+
+- Understanding how LLM applications and agent workflows behave.
+- Building practical systems with clear evaluation and reproducible workflows.
+- Learning application security through hands-on labs and responsible testing.
+- Exploring ways to assess the reliability and trustworthiness of AI agents.
+
+## GitHub Activity
 
 <div align="center">
 
-![GitHub activity stats](https://github-readme-stats.vercel.app/api?username=hemanthshashidhar&show_icons=true&hide_border=true&theme=github_dark)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hemanthshashidhar&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github" alt="GitHub statistics" />
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthshashidhar&layout=compact&hide_border=true&theme=github_dark)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthshashidhar&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E" alt="Most used languages" />
 
 </div>
-
-<sub>Language statistics reflect public repository code, not overall proficiency. Third-party stat cards may occasionally be unavailable.</sub>
-
-### `$ cat connect.md`
-
-- **GitHub:** [github.com/hemanthshashidhar](https://github.com/hemanthshashidhar)
-- **LinkedIn:** [hemanth-kumarks18h](https://www.linkedin.com/in/hemanth-kumarks18h)
 
 ---
 
 <div align="center">
 
-`hemanth@github:~$ ./keep-building.sh` ▌
+**Interested in thoughtful engineering, useful AI, and building things that hold up under scrutiny.**
+
+[Connect on LinkedIn](https://www.linkedin.com/in/hemanth-kumarks18h/) · [Explore my repositories](https://github.com/hemanthshashidhar?tab=repositories)
 
 </div>
