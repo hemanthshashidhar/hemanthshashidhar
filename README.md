@@ -121,7 +121,7 @@ I study how AI systems can be manipulated and how to build useful defenses.
 
 </details>
 
-### 🐍 Contributions, but make them a game
+### 🐍 Contributions
 
 <!-- The snake appears after running .github/workflows/snake.yml once. -->
 <div align="center">
